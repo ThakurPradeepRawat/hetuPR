@@ -7,7 +7,7 @@
 An open-source, context-aware AI code reviewer and security auditor for GitHub Pull Requests, inspired by *Hetu* (हेतु), the reason or ground that supports a conclusion in Indian logic.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![CI](https://img.shields.io/github/actions/workflow/status/<your-username>/hetupr/ci.yml?style=for-the-badge&label=CI)](https://github.com/<your-username>/hetupr/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/ThakurPradeepRawat/hetupr/ci.yml?style=for-the-badge&label=CI)](https://github.com/ThakurPradeepRawat/hetupr/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](CONTRIBUTING.md)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-blueviolet?style=for-the-badge)](CODE_OF_CONDUCT.md)
 
@@ -210,7 +210,7 @@ hetupr/
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/hetupr.git
+git clone https://github.com/ThakurPradeepRawat/hetupr.git
 cd hetupr
 ```
 
@@ -323,7 +323,7 @@ Structured logs (Structlog) plus Prometheus/Grafana. Useful signals include webh
 - [ ] Support for additional LLM providers
 - [ ] Deployment, backup, and rollback documentation
 
-Have an idea? [Open a feature request](https://github.com/<your-username>/hetupr/issues/new).
+Have an idea? [Open a feature request](https://github.com/ThakurPradeepRawat/hetupr/issues/new).
 
 ## Contributing
 
@@ -343,7 +343,7 @@ This project follows the [Contributor Covenant](CODE_OF_CONDUCT.md). By particip
 
 ## License
 
-Released under the [MIT License](LICENSE). Copyright (c) 2026 `<Your Name>`.
+Released under the [MIT License](LICENSE). Copyright (c) 2026 Pradeep Rawat.
 
 ## Acknowledgements
 
